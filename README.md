@@ -1,0 +1,2 @@
+# myIndexedDB
+for myself
